@@ -2,7 +2,7 @@
 #include <ctime>
 using namespace std;
 int main() {
-	setlocale(LC_ALL, "Russian");
-	cout << "Hello?"<<endl;
+	cout << "Goodbye"<<endl;
+	cout << "Ok "<< endl;
 	return 0;
 }
