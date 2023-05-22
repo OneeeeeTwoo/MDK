@@ -1,8 +1,8 @@
 #include <iostream>
-#include <ctime>
 using namespace std;
 int main() {
 	setlocale(LC_ALL, "Russian");
-	cout << "Hello?"<<endl;
+	cout << "Hello!!!!"<<endl;
+	cout << "Am I know you?" << endl;
 	return 0;
 }
